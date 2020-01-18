@@ -3,7 +3,7 @@ import os
 
 r = requests.session()
 
-def cls_(): # thx stackoverflow
+def cls_(): # thx stackoverflow or no because idek if this work or not
     os.system('cls' if os.name=='nt' else 'clear')
 
 def getIpu():
