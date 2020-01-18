@@ -1,6 +1,6 @@
 APIMS IPU in Python
 
-# DOWNLOAD
+# Exe Release
 [Click Here](https://github.com/FireRedz/malay-ipu/raw/master/output/ipu.exe)
 
 ## Why do you create this?
