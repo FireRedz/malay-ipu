@@ -33,18 +33,25 @@ def printInfo(stateData,stateNumber): # print state info by user input (code)
 			pass
 
 		print("____________________")
-		exitP = input("Press Enter to Exit")
-
+		again(input('Continue Y/N > '))
+		
 	# Error Handling start here
 	except IndexError:
 		print("Make sure the number isn't bigger than state code")
-		exitP = input("Press Enter to Exit")
+		again(input('Continue Y/N > '))
 	except ValueError:
 		print('Enter a number you dumbass')
-		exitP = input("Press Enter to Exit")
+		again(input('Continue Y/N > '))
 
 
-
-
+ #continue test
+def again(input):
+	if input == "Y":
+		ipuCode,ipuData = getIpu()
+		printInfo(ipuData,ipuCode) 
+	else:
+		print('Closing...')
+     	
 ipuCode,ipuData = getIpu()
 printInfo(ipuData,ipuCode)
+
