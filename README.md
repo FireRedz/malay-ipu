@@ -1,6 +1,6 @@
 APIMS IPU in Python
 
-# Exe Download
+# Exe Version Download ( not latest )
 [Click Here](https://github.com/FireRedz/malay-ipu/raw/master/output/ipu.exe)
 
 ## Why do you create this?
@@ -10,4 +10,4 @@ APIMS IPU in Python
 [Here](http://apims.doe.gov.my/data/public_v2/CAQM/last24hours.json)
 
 ## The code is bad
-That's the reason why I uploaded it on Github 
+:3
