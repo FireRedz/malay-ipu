@@ -1,4 +1,4 @@
-APIMS IPU in Python
+get your local ipu from python
 
 # Exe Version Download ( not latest )
 [Click Here](https://github.com/FireRedz/malay-ipu/raw/master/output/ipu.exe)
